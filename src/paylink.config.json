@@ -3,9 +3,9 @@
 
   "properties": {
     "name": "Tecnocuban",
-    "description": "Frontend web developer and tireless creator",
+    "description": "Slyk cubana de servicios digitales",
     "alt": "Photo of Tecnocuban",
-    "hero": "./images/daniel-castillo.png"
+    "hero": "./images/"
   },
 
   "Social": [
