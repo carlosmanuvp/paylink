@@ -2,18 +2,18 @@
   "theme": "minimalist-dark-theme",
 
   "properties": {
-    "name": "Daniel Castillo",
+    "name": "Tecnocuban",
     "description": "Frontend web developer and tireless creator",
-    "alt": "Photo of Daniel Castillo",
+    "alt": "Photo of Tecnocuban",
     "hero": "./images/daniel-castillo.png"
   },
 
   "Social": [
-    { "label": "Link", "type": "link", "link": "https://danielcastillop.netlify.app" },
-    { "label": "GitHub", "type": "github", "link": "https://github.com/dlcastillop" },
-    { "label": "Twitter", "type": "twitter", "link": "https://twitter.com/dlcastillop" },
-    { "label": "LinkedIn", "type": "linkedin", "link": "https://linkedin.com/in/dlcastillop" },
-    { "label": "Instagram", "type": "instagram", "link": "https://instagram.com/dlcastillop" },
+    { "label": "Link", "type": "link", "link": "https://tecnocuban.com" },
+    { "label": "GitHub", "type": "github", "link": "" },
+    { "label": "Twitter", "type": "twitter", "link": "https://twitter.com/tecnocuban" },
+    { "label": "LinkedIn", "type": "linkedin", "link": "" },
+    { "label": "Instagram", "type": "instagram", "link": "" },
     { "label": "Discord", "type": "discord", "link": "" },
     { "label": "Facebook", "type": "facebook", "link": "" },
     { "label": "Medium", "type": "medium", "link": "" },
@@ -32,7 +32,7 @@
     {
       "id": "btc",
       "label": "Bitcoin",
-      "value": "bc1qejahgjmqnmyrw7jvn0d7evfdq6ssjl3wq7hfle",
+      "value": "bc1qt9kv2pll5wlt7tygwp4ett8cjdsadz783cgdwy",
       "img": "./images/payments/btc.svg"
     },
     {
@@ -56,7 +56,7 @@
     {
       "id": "eth",
       "label": "Ethereum",
-      "value": "0x59C864f658caD68A19a97499755080c056079988",
+      "value": "",
       "img": "./images/payments/eth.svg"
     },
     {
@@ -73,45 +73,45 @@
     },
     {
       "id": "usdt",
-      "label": "USDT",
+      "label": "Usdt Trc20",
       "value": "",
       "img": "./images/payments/usdt.svg"
     },
     {
       "id": "qvapay",
       "label": "QvaPay",
-      "value": "https://qvapay.com/payme/dlcastillop",
+      "value": "",
       "img": "./images/payments/qvapay.svg"
     },
     {
       "id": "sol",
       "label": "Solana",
       "value": "",
-      "img": "./images/payments/sol.svg"
+      "img": ""
     },
     {
       "id": "ada",
       "label": "ADA",
       "value": "",
-      "img": "./images/payments/ada.svg"
+      "img": ""
     },
     {
       "id": "trx",
       "label": "Tron",
-      "value": "",
+      "value": "TWRrtjE6ErPXnHkEGjtc9XggukGAY1v2ro",
       "img": "./images/payments/trx.svg"
     },
     {
       "id": "xrp",
       "label": "XRP",
       "value": "",
-      "img": "./images/payments/xrp.svg"
+      "img": ""
     },
     {
       "id": "card",
       "label": "Card",
       "value": "",
-      "img": "./images/payments/card.svg"
+      "img": ""
     }
   ]
 }
