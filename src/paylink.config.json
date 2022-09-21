@@ -5,7 +5,7 @@
     "name": "Tecnocuban",
     "description": "Slyk cubana de servicios digitales",
     "alt": "Photo of Tecnocuban",
-    "hero": "./images/"
+    "hero": "./images/tecnocuban.png"
   },
 
   "Social": [
@@ -37,14 +37,14 @@
     },
     {
       "id": "busd",
-      "label": "BinanceUSD",
+      "label": "Bnb Smart Chain",
       "value": "",
-      "img": "./images/payments/busd.svg"
+      "img": "./images/payments/usd.svg"
     },
     {
       "id": "matic",
-      "label": "Matic",
-      "value": "",
+      "label": "Hive",
+      "value": "@tecnocuban1",
       "img": "./images/payments/matic.svg"
     },
     {
@@ -62,7 +62,7 @@
     {
       "id": "ltc",
       "label": "Litecoin",
-      "value": "",
+      "value": "MJM8MpBGooBwFteMNxWSw35bXHDxZxfC4U",
       "img": "./images/payments/ltc.svg"
     },
     {
@@ -74,7 +74,7 @@
     {
       "id": "usdt",
       "label": "Usdt Trc20",
-      "value": "",
+      "value": "TUtSkBHdWXsi7TGuu98vrbbUdxMBBsqKMe",
       "img": "./images/payments/usdt.svg"
     },
     {
@@ -103,14 +103,14 @@
     },
     {
       "id": "xrp",
-      "label": "XRP",
-      "value": "",
-      "img": ""
+      "label": "Usdc Trc20",
+      "value": "TPzaF26FuYwbJxnMkzxkLApkcAjN8b8ckT",
+      "img": "./images/payments/usdc.svg"
     },
     {
       "id": "card",
       "label": "Card",
-      "value": "",
+      "value": ".m",
       "img": ""
     }
   ]
